@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "bvplayerutility",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/BlendVision/bvplayerutility.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c808e5a8151691ce6034aa63de1144721bc0a5c0"
+      }
+    }
+  ],
+  "version" : 2
+}
